@@ -1,0 +1,72 @@
+[
+    {
+      "id": 1,
+      "name": "Haka Noodles",
+      "price": "70",
+      "category": "Veg",
+      "image": "haka_noodles"
+    },
+    {
+      "id": 2,
+      "name": "Chicken Noodles",
+      "price": "100",
+      "category": "Non-Veg",
+      "image": "chiken_noodles"
+    },
+    {
+      "id": 3,
+      "name": "White Sauce Pasta",
+      "price": "80",
+      "category": "Veg",
+      "image": "white_pasta"
+    },
+    {
+      "id": 4,
+      "name": "Chiken Burger",
+      "price": "90",
+      "category": "Non-Veg",
+      "image": "chiken_burger"
+    },
+    {
+      "id": 5,
+      "name": "Veg Manchurian",
+      "price": "80",
+      "category": "Veg",
+      "image": "manchurian"
+    },
+    {
+      "id": 6,
+      "name": "Chiken Popcorn",
+      "price": "120",
+      "category": "Non-Veg",
+      "image": "chiken_popcorn"
+    },
+    {
+      "id": 7,
+      "name": "Veggie Burger",
+      "price": "70",
+      "category": "Veg",
+      "image": "veg_burger"
+    },
+    {
+      "id": 8,
+      "name": "Chicken Kathi Roll",
+      "price": "100",
+      "category": "Non-Veg",
+      "image": "chicken_roll"
+    },
+    {
+      "id": 9,
+      "name": "Veg Kathi Rool",
+      "price": "80",
+      "category": "Veg",
+      "image": "veg_Roll"
+    },
+    {
+      "id": 10,
+      "name": "Chiken Momos",
+      "price": "70",
+      "category": "Non-Veg",
+      "image": "momos"
+    }
+  ]
