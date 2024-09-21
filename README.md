@@ -64,6 +64,7 @@ The **Food Ordering App** is a React Native application that provides users with
     ├── babel.config.js
     ├── index.js
     └── package.json
+```
 
 ## 🚀 Getting Started
 
