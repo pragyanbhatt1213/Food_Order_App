@@ -67,7 +67,7 @@ The **Food Ordering App** is a React Native application that provides users with
 ```
 ## Sample
 
-![image](https://github.com/user-attachments/assets/a1a01391-244f-4300-933b-b71fd50469bf)     ![image](https://github.com/user-attachments/assets/aaaf62b5-4626-4704-8628-15ffa63c1e1b)
+![image](https://github.com/user-attachments/assets/a1a01391-244f-4300-933b-b71fd50469bf)                ![image](https://github.com/user-attachments/assets/aaaf62b5-4626-4704-8628-15ffa63c1e1b)
 
 
 ## 🚀 Getting Started
